@@ -14,6 +14,7 @@ def loop_students(lab_dir, sol_path, config_dict):
 def add_to_config(student_dir, sol_path, config_dict):
     # create a config file
     config_file = open("config_file.txt", "a")
+    config_file.truncate()
 
     for class_name in config_dict:
 
