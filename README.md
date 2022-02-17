@@ -26,3 +26,8 @@ These files are general automated operations that can be used with any labs. The
 - script for creating Intellij configuration elements for c+p into xml file
 ## Changed
 - file structure for tests: new `scripts\` directory for general scripts
+
+## 2/17/22
+## Added
+- new script and code for creating configuration elements for tests that does not have file input (instead filename is passed as an argument)
+- test script for lab 4
