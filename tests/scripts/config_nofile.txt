@@ -1,0 +1,8 @@
+<configuration name="{config_name}" type="Application" factoryName="Application" nameIsGenerated="true">
+  <option name="MAIN_CLASS_NAME" value="{class_name}" />
+  <module name="{module_name}" />
+  <option name="PROGRAM_PARAMETERS" value="{cmd_params}" />
+  <method v="2">
+    <option name="Make" enabled="true" />
+  </method>
+</configuration>
